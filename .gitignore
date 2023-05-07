@@ -1,0 +1,42 @@
+**/*.py[cod]
+**/*$py.class
+**/.idea/
+# C extensions
+**/*.so
+**/*.pyc
+# PyInstallerss
+**/*.manifest
+**/*.spec
+**/oms/local_settings.py
+**/oms/local_urls.py
+
+# Installer logs
+**/pip-log.txt
+**/pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+**/htmlcov/
+**/.tox/
+**/.coverage
+**/.coverage.*
+**/.cache
+**/nosetests.xml
+
+**/coverage.xml
+**/*.cover
+
+# Translations
+**/*.pot
+
+# Django stuff:
+**/*.log
+
+# Sphinx documentation
+**/docs/_build/
+
+# PyBuilder
+**/target/
+**/db.sqlite3
+
+**/.isort.cfg
+
